@@ -1,18 +1,17 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mustafa Khokhar</h1>
 <p align="center">
+  
   <em>
     I am a <b>Computer Science</b> senior at  <a href="https://lums.edu.pk"> <b>Lahore University of Management Sciences</b>, Pakistan</a>.
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
    <p align="center"> I'm passionate about Machine Learning, Deep Learning, Network Systems, and I'm your go-to Flutter app developer.</p>
-  <br>
+<!--   <br> -->
   <b>🥊 When I'm not coding, I'm throwing punches in the boxing ring.</b>
-  
+  <br>
   <b>💻 Tech enthusiast by day, I love exploring the intersection of technology and real-world challenges.</b>
-
-<b>Off-screen, I'm all about road trips, adventure, and soaking in the sights.</b>
+  <br>
+  <b>🏔Off-screen, I'm all about road trips, adventure, and soaking in the sights.</b>
 </p>
 
 ---
