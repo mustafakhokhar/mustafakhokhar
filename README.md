@@ -3,7 +3,8 @@
 <p align="center">
   <em>
     I am a <b>Computer Science</b> senior at  <a href="https://lums.edu.pk"> <b>Lahore University of Management Sciences</b>, Pakistan</a>.
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
    <p align="center"> I'm passionate about Machine Learning, Deep Learning, Network Systems, and I'm your go-to Flutter app developer.</p>
   <br>
