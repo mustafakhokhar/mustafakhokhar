@@ -75,6 +75,12 @@
   </a>
   <br>
 
+---
+
+<h4> Some helpful Websites: <h4>
+<a href= "https://newsletter.systemdesign.one"> System Design NewsLetter</a>
+
+
 <!--
 **mustafakhokhar/mustafakhokhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
