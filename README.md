@@ -6,11 +6,11 @@
   <em>
     I am a <b>Computer Science</b> senior at  <a href="https://lums.edu.pk"> <b>Lahore University of Management Sciences</b>, Pakistan</a>.
 
-   <p align="center"> I'm passionate about Machine Learning, Deep Learning, Network Systems, and I'm your go-to Flutter app developer.</p>
+   <p align="center"> I'm passionate about Deep Learning, Network Systems, and I'm your go-to Flutter app developer.</p>
 <!--   <br> -->
   <b>🥊 When I'm not coding, I'm throwing punches in the boxing ring.</b>
   <br>
-  <b>💻 Tech enthusiast by day, I love exploring the intersection of technology and real-world challenges.</b>
+  <b>💻 Tech enthusiast by day, I love talking about gadgets.</b>
   <br>
   <b>🏔Off-screen, I'm all about road trips, adventure, and soaking in the sights.</b>
 </p>
