@@ -30,7 +30,6 @@
 </p>
 
 <br>
-<br>
 <summary>
   ✨ Tools:
 </summary>
@@ -43,6 +42,18 @@
 <a href="https://nodejs.org/en" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mysql.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mongodb.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+<br>
+<summary>
+  ✨ Interested in Learning:
+</summary>
+   <br>
+<a href="https://www.djangoproject.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://redis.io" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://supabase.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
