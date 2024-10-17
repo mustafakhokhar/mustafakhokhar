@@ -8,7 +8,7 @@
 
    <p align="center"> I'm passionate about Deep Learning, Network Systems, and I'm your go-to Flutter app developer.</p>
 <!--   <br> -->
-  <b>🥊 When I'm not coding, I'm throwing punches in the boxing ring.</b>
+<!--   <b>🥊 When I'm not coding, I'm throwing punches in the boxing ring.</b> -->
   <br>
   <b>💻 Tech enthusiast by day, I love talking about gadgets.</b>
   <br>
