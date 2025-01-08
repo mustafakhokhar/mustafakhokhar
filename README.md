@@ -77,8 +77,14 @@
 
 ---
 
-<h4> Some helpful Websites: <h4>
-<a href= "https://newsletter.systemdesign.one"> System Design NewsLetter</a>
+<h3> Good Reads <h3>
+<h4> Books <h4>
+<a href= "https://www.cosmicpython.com"> Architectural Patterns in Python [Cosmic Python] </a> <br>
+<a href= "https://drive.google.com/file/d/1675-eg5A067TAdp20CLwfiiHUBVMWOAA/view"> A Philosophy of Software Design </a> <br> 
+<a href= "https://drive.google.com/file/d/1qJePfT4HsDnR-QktAwwlHDMCU77ppnT3/view"> Designing Data Intensive Applications [Oreilly]  </a> <br>
+<a href= "https://www.cosmicpython.com"> Clean Code" by Robert C. Martin </a> <br>
+<h4> Not Books <h4>
+<a href= "https://martinfowler.com/bliki/DomainDrivenDesign.html"> DDD by Martin Fowler </a> <br>
 
 
 <!--
